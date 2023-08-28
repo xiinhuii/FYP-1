@@ -1,0 +1,10 @@
+com.example.qrscanner.test.app-annotation-experimental-1.3.0-0 C:\Users\17039129\.gradle\caches\transforms-3\54385c2ef2af21cf5c7a00f5ddeb79dd\transformed\annotation-experimental-1.3.0\res
+com.example.qrscanner.test.app-core-1.5.0-1 C:\Users\17039129\.gradle\caches\transforms-3\f0994e7e3068f7218dea2d14d7d20126\transformed\core-1.5.0\res
+com.example.qrscanner.test.app-security-app-authenticator-1.0.0-alpha02-2 C:\Users\17039129\.gradle\caches\transforms-3\f1996c3aae6bf674747bf47810aebf88\transformed\security-app-authenticator-1.0.0-alpha02\res
+com.example.qrscanner.test.app-androidTest-3 C:\Users\17039129\AndroidStudioProjects\QRScanner With Fragment\app\build\generated\res\resValues\androidTest\debug
+com.example.qrscanner.test.app-androidTest-4 C:\Users\17039129\AndroidStudioProjects\QRScanner With Fragment\app\build\generated\res\rs\androidTest\debug
+com.example.qrscanner.test.app-mergeDebugAndroidTestResources-5 C:\Users\17039129\AndroidStudioProjects\QRScanner With Fragment\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.qrscanner.test.app-mergeDebugAndroidTestResources-6 C:\Users\17039129\AndroidStudioProjects\QRScanner With Fragment\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.qrscanner.test.app-merged_res-7 C:\Users\17039129\AndroidStudioProjects\QRScanner With Fragment\app\build\intermediates\merged_res\debugAndroidTest
+com.example.qrscanner.test.app-androidTest-8 C:\Users\17039129\AndroidStudioProjects\QRScanner With Fragment\app\src\androidTest\res
+com.example.qrscanner.test.app-androidTestDebug-9 C:\Users\17039129\AndroidStudioProjects\QRScanner With Fragment\app\src\androidTestDebug\res

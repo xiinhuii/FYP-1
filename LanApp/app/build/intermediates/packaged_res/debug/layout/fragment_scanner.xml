@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ScannerFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/homeToolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        app:title="Scan QR Code"
+        app:titleTextColor="@color/white"
+        android:background="@color/purple_500"
+        android:theme="?attr/actionBarTheme"/>
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/scanner"
+        android:textSize="18sp"/>
+
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="50dp"
+        android:text="Scan"
+        android:layout_gravity="center"
+        android:textSize="36sp"
+        android:layout_centerInParent="true"
+        android:id="@+id/btn_scan"
+        />
+
+</FrameLayout>
