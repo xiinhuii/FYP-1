@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "384457261956",
+    "firebase_url": "https://realtime-database-3c6c2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "realtime-database-3c6c2",
+    "storage_bucket": "realtime-database-3c6c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384457261956:android:fe9d7328bd05a9c2f593d1",
+        "android_client_info": {
+          "package_name": "com.example.qrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384457261956-vbb5pqmspstetsarid3ir7gaqh4enji6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD5qW2TSZqspewtrWbUkmZ7aUn33rSW4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384457261956-vbb5pqmspstetsarid3ir7gaqh4enji6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
